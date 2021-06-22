@@ -1,3 +1,6 @@
+# pip install PyQt5
+# pip install PyQtWebEngine
+
 #mybrowser_RAYS
 import sys
 from PyQt5.QtCore import *
